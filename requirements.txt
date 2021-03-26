@@ -1,5 +1,4 @@
-telegram
-time 
+telegram 
 datetime 
 random 
 schedule 
