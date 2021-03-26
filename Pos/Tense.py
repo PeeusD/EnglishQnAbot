@@ -1,0 +1,126 @@
+questions =	 [
+						[ "  Quiz Tenses/ Prepositions will start in 30 secs. " ],
+						
+						["1. (a)An anarchist is /(b) a person who /(c) is believing in or /(d) tries to bring about anarchy. /(e) No error"],
+						[" 2. (a) When /(b) She comes /(c) we discuss /(d) this issue /(e) No error"],
+						[" 3. (a) It is high time /(b) you bought /(c) this book /(d) from the market /(e) No error"],
+						[" 4. (a) Whenever /(b) he is coming here /(c) he brings a lot of /(d) gifts for us /(e) No error"],
+						[" 5. (a) Shweta is behaving /(b) as if she never /(c) tells a lie /(d) in her life. /(e) No error"],
+						[" 6. (a) I wish /(b) I was the /(c) first Prime minister of the /(d) country after independence /(e) No error"],
+						[" 7. (a) Shreya uses to watch /(b) TV till eleven O’clock at night /(c) and then goes /(d) to bed /(e)No error "],
+						[" 8. (a) I wish I /(b) met you when /(c) you were /(d) living in India / (e) No error"],
+						[" 9. (a) Here came /(b) my friend ! /(c) said Ashish when /(d) he saw Udit /(e)No error "],
+						["  10. (a) If we had /(b) Rahul in our team /(c) we would /(d) won the match /(e) No error"],
+						[" 11. (a) A drop in the mercury column /(b) of a barometer /(c) indicates the change /(d) in atmospheric pressure /(e) No error"],
+						[" 12. (a) New king /(b) Porus leads /(c) his army /(d) and attacked the enemy /(e) No error"],
+						[" 13. (a) Juhi has /(b) saved enough money /(c) she will buy /(d) a new car next week /(e) No error"],
+						[" 14. (a) Rama hopes /(b) to become an IAS officer /(c) after she completes /(d) her graduation. /(e) No error"],
+						[" 15. (a) Rahul along with his friends /(b) is going to have /(c) a party in his apartment /(d) after the match. /(e) No error"],
+						[" 16. (a) Harit had not taken /(b) any decision /(c) until he had /(d) studied the case /(e)No error "],
+						[" 17. (a) I tried to tell Shivam /(b) what has happened /(c) but my words /(d) were not audible /(e) No error"],
+						[" 18. (a) The teacher taught /(b) the students since /(c) Morning, therefore, she /(d) was exhausted /(e)No error "],
+						[" 19. (a) I have been /(b) studying in /(c) my room /(d) for last evening /(e)No error "],
+						[" 20. (a) Rita came /(b) to the class /(c) much earlier than /(d) I expected /(e) no error "],
+						[" 21. (a) Many studies suggest /(b) that the number /(c) of cancer patients /(d) is grow day by day /(e)No error "],
+						[" 22. (a) Ravi told his father /(b) that he would not /(c) be able to come back on time /(d) if rains /(e)No error "],
+						[" 23. (a) I remember what /(b) She had /(c) told me about /(d) her future plans /(e) No error"],
+						[" 24. (a) I will let you know /(b) as soon as I will get /(c) any information /(d) about your missing brother. /(e) No error"],
+						[" 25. (a) We had reached /(b) the station /(c) before the train /(d) arrived /(e) No error"],
+					
+
+						
+						["Fill in the blanks: Q.1 Sanjeev ______ karate class everyday. (a) attends (b) has attended (c) attended (d) is attending (e) None of these "],
+						["Q.2 The market ______ usually noisy in the morning. (a) is (b) has (c) was (d) were (e) will be "],
+						["Q.3 The post man ______ the letter already. (a) will be posting (b) has posted (c) delivered (d) posts (e) has delivered No error"],
+						["Q.4 The athlete ______ for America tomorrow. (a) is leaving (b) has left (c) will leaving (d) will have left (e) shall leave "],
+						["Q.5 Sanjay ______ his room for the past three hours. (a) will be painting (b) will paint (c) has been painting (d) has painted (e) will have painted No error"],
+						["Q.6 The milkman ______ to our housing estate every morning. (a) come (b) has come (c) coming (d) comes (e) came "],
+						["Q.7 Udit ______ Cricket since primary school when he got selected in Indian Cricket team. (a) has played (b) had been playing (c) will play (d) will have played (e) has played No error"],
+						["Q.8 The conference ______ due to lack of quorum. (a) has been postponed (b) is postponing (c) will postpone (d) postponed (e) None of these "],
+						["Q.9 You are late. The train ______ already. (a) left (b) has left (c) will leave (d) had left (e) leave No error"],
+						["Q.10 Everyone ______ about West Indies’ achievement in the Twentytwenty world cup, now a days. (a) talked (b) was talking (c) will talk (d) is talking (e) has talked "],
+						["Q.11 It ______ since last night, and it ______ as if it may rain for the rest of the day. (a) has been raining; looks (b) is raining, looked (c) rained; looked (d) has been raining; has been looking (e) rains; has been looking. "],
+						["Q.12 Orphanage ______ a food-and-fun fair next month to _______ money for the building-fund. (a) will hold; raise (b) will be holding; raised (c) holds; raise (d) will hold; rise (e) is holding; raise No error"],
+						["Q.13 Look! Those bees ______ round the flowers. The bees are not only ______ honey, but they are also pollinating the flowers as well. (a) are buzzing; collect (b) are buzzing; collecting. (c) buzzed; collected (d) have buzzed; collected (e) are buzzing; been collecting No error"],
+						["Q.14 Manju told Karan what ______ to his mother, so he ______ home to see how she was. (a) happens; runs (b) happened; run (c) happened; ran (d) had happened; ran (e) had happened; had run "],
+						["Q.15 Has the auto rickshaw not come yet ? It ______ already twenty minutes late. I hope it ______ here soon. (a) was; would (b) was; will (c) is; will be (d) has been; will (e) None of these No error"],
+						["Q.16 We ______ shopping last weekend. There was a great crowd in the market. Most of the people ______ their Diwali’s shopping. (a) went; were doing (b) gone; did (c) had gone; done (d) had gone; were doing (e) were going; were doing "],
+						["Q.17 It is a fine morning today. The birds ______ on the trees, and there _______ not a cloud in the sky. (a) are singing; is (b) have been singing; is not (c) were singing; were (d) had sung; is (e) None of these "],
+						["Q.18 Abhi is always asking questions. Sometimes he ______ such complicated questions that I ______ puzzled, too. (a) asks; becomes (b) asks; become (c) is asking; become (d) asks; became (e) ask; become No error"],
+						["Q.19 I thought that the grass needs cutting, but the lawnmower ______ out of order. Therefore, I ______ the grass with a pair of shears. (a) was; had cut (b) is; cut (c) was; cut (d) will be; cutted (e) had; cut No error"],
+						["Q.20 Her parents ______ for her for over an hour. Where has she ______ all this time (a) waited; be (b) were waiting; been (c) wait; been (d) have been waiting; been (e) None of these. "],
+									
+						["Find errors:--> 21. (a) The Head office was/(b)engulfed by /(c) the fire/(d) that had broken last night/(e) No error"],
+				["22. (a) It believed earlier/ (b) that the sun/(c) revolved /(d) round the earth./ (e) No error"],
+				["23. (a) As he/(b) was wearing,/(c) skimpy clothes/(d) he was stared./ (e) No error"],
+				["24. (a) she behaves in/(b) such a weird manner/(c) that everybody disgusted/(d) with her./ (e) No error"],
+				["25. (a) I think/(b) more than ten balls/(c) are contained/(d) by this box./(e) No error"],
+						
+						[ "Now OVER!!! Just rate us!"]
+							]
+						
+				
+
+	
+				
+				
+				
+sol=[				"Lets Start!",
+						
+					"1. (c); ‘believes’ should be used in place of ‘is believing’ Since. ‘universal truths’ are always expressed in ‘simple present Tense’For Ex –: A teetotaler is a person who never drinks alcohol",
+					"2. (c); ‘We will discuss’ should be used in place of ‘we discuss’. Because whenever two future actions are stated, conditional clause or subordinate clause (those which begin with If, until, when, before, etc) are expressed in simple present tense and ‘Principal clause’ is expressed in future tenseFor Ex –: Until Shivam comes, I will wait for him",
+					"3. (e); No error", 
+					"4. (b); ‘He comes’ should be used in place of ‘he is coming’ since present habits are expressed in ‘Simple Present Tense’ For Ex –: Whenever she weeps, nobody asks her the reason",
+					"5. (c); ‘Tells a lie’ should be replaced with ‘Told a lie’ because ‘as if’ clause always takes ‘Past tense’For Ex –: He is reacting as if he never failed a test",
+					"6. (b); ‘I were’ should be used in place of ‘I was’ because in Imaginary sentences of present, ‘were’ is used after the subjectFor Ex –: I wish, I were the richest person of the world",
+					"7. (a); ‘Watches’ should be used in place of ‘uses to watch’ since present habits are expressed in ‘Simple Present Tense’ For Ex –: He goes for a walk every day, before having his tea in the morning",
+					"8. (b); ‘Had met’ should be used in place of ‘met’ because in ‘unfulfilled wish, condition or desire’ of past, I wish/as If/If etc. take ‘past perfect Tense’ For Ex –: I wish I had met nelson Mandela",
+					"9. (a); ‘Here comes’ should be used in place of ‘Here come’. Since ‘Simple present Tense’ is used in exclamatory sentences starting with ‘Here’ and ‘there’ For Ex –: There goes the ball ! ",
+					"10. (e); No error ",
+					"11. (e); No error ",
+					"12. (b); ‘led’ should be used in place of ‘leads’ since this a past event and past events (histonic ones) are expressed in simple past tense", 
+					"13. (c); ‘is going to buy’ should be used in place of ‘will buy’ because when a future plan of action is expected to take place, we use ‘going to’For Ex –: She has invited all her friends as she is going to celebrate her wedding anniversary tomorrow",
+					"14. (c); ‘She has completed’ should be used in place of ‘she completes’ because Rama would have completed her graduation before becoming an IAS officer. Hence Present Perfect Tense would be usedFor Ex –: O can’t decide until I’ve got all the information about this ",
+					"15. (e); No Error",
+					" 16. (a); ‘Did not take’ should be used in place of ‘had not taken’ because whenever two past actions are stated, past perfect is used to express former action whereas the latter one is expressed in ‘Simple Past Tense’For Ex –: when we reached the station, the train had already departed",
+					"17. (b); ‘What had happened’ should be used in place of ‘what has happened’ because what ‘I’ tried to tell Shivam is a past action Hence past perfect tense should be used here to denote ‘past of the past’For Ex –: He informed his father about the car accident that had occurred last week",
+					"18. (a); ‘Had been teaching’ should be used in place of ‘Taught’. Because, teacher had started teaching in past, continued to teach in past and finished teaching in past. Hence, past perfect continuous must be used For Ex –: She had been driving for six hours before she met with an accident",
+					"19. (d); ‘Since last evening’ should be used in place of ‘for last evening’ because ‘since’ is used to denote ‘point of time whereas ‘for’ is used to denote ‘period of timeFor Ex –:They have been waiting {since 4 O' clock}--Point of time They have been waiting {for four hours.}--period of time ",
+					"20. (d); ‘I had expected’ should be used in place of ‘I expected’, since, past perfect tense is used to denote ‘Past of the past’",
+					"21. (d); ‘ is growing day by day’ should be used in place of ‘is grow day by day’. Since the rule ‘followed in Present continuous Tense is as ‘sub + is/am/are + v1+ing + object.’ For Ex –: She is growing old day by day",
+					"22. (d); ‘If it rained’ should be used in place of ‘If it rains’ because Reporting verb in Indirect narration is in past Tense For Ex –: Rahul told his brother that he prepared the breakfast for him",
+					"23. (e); No Error",
+					"24. (b); 'Will get' should be replaced with 'get'. For explanation refer to question – 2",
+					"25. (e); No Error",
+
+					
+					"1. (a); The sentence expresses the daily habit of Sanjeev. Therefore, simple present tense should be used here. Hence, (a) is the correct option",
+					"2. (a); In this sentence the daily ambience of market has been described Therefore, (simple) present tense should be used. Hence, (a) is the correct option",
+					"3. (e); The usage of the word ‘already’ shows that the action has been completed. Hence perfect tense should be used. Now see the meaning of the following options: Post: Send (a letter or parcel) via the postal system Deliver: bring and hand over (a letter, parcel, or goods) to the proper recipient or address Hence, (e) is the correct option",
+					"4. (a); For future plans which are expected to be executed in near future, we use present progressive tense. Hence, (a) is the correct option",
+					"5. (c); In this sentence, the action had started in past and was in action for a period of time hence perfect continuous tense should be used here. Therefore, (c) is the correct option",
+					"6. (d); In this sentence, the daily routine of milkman has been described Hence, simple present tense should be used. Hence, (d) is the correct option",
+					"7. (b); Here an action described, had started in the past and was in action till the point in the past. Hence, past perfect continuous tense should be used here. Hence, (b) is the correct option",
+					"8. (a); The given statement is in passive voice hence, the structure ‘has + been + V3’ should be used. Hence, (a) is the correct option",
+					"9. (b); The usage of the word ‘already’ shows that the action in the given sentence has been completed hence perfect tense should be usedNow, the usage of are in the first part of the question shows that the sentence is in present tense. Therefore, (b) is the correct option",
+					"10. (d); The usage of the word ‘now a days’ shows that the sentence is in present continuous tense. Hence, (d) is the correct option",
+					"11. (a); For the first blank the action has started in the past and is currently in action, hence present perfect continuous tense should be usedHence, either (a) or (d) is the correct option. But, for the second blank, the action of looking had not started in the past so (d) cannot be the correct option, Hence (a) is the correct option",
+					"12. (e); ‘is holding; raise’ is the correct option. For explanation refer to Question-4 Look at the meaning of the following options for the second blank Raise: Increase the amount Rise: An upward movement Hence, (e) is the correct option",
+					"13. (b); The usage of ‘look’ indicates that the action is in continuation Hence present continuous tense should be used here. Hence, (b) is the correct option",
+					"14. (d); In the given sentence, what Manju told Karan was an action of past so, we should used past perfect tense to show actions that took place in ‘past of past’. Now, in the second past action has been described so, simple past tense should be used here. Hence, (d) is the correct option",
+					"15. (c); ‘is; will be’ is the correct answer",
+					"16. (a); In the first blank past action has been described Hence simple past should be used here. Again in the second blank a continuous action has been described, therefore, past continuous tense must be used. Hence (a) is the correct option",
+					"17. (a); The given sentence describes the actions that are taking place at present. Hence, present continuous tense should be used here Hence, (a) is the correct option",
+					"18. (b); The given sentence shows the habits of Abhi hence, simple present tense should be used in the first blank. In the second blank, present tense should be used, now I is plural in present tense, hence plural verb (become) should be used here. Hence (b) is the correct option",
+					"19. (c); Since the given sentence is in past tense and shows the past actions Hence simple past tense should be used here. Hence (c) is the correct option",
+					"20. (d); The usage of ‘has’ in the given sentence shows that the sentence is in present tense. Now, in the first blank, present perfect continuous tense should be used (see question 11 for explanation) For the second blank been (stay in the same place or condition) is the most appropriate option. Hence, (d) is the correct option",
+					"21. (b); 'in' should be used in place of 'by'. Since the preposition 'in' is used after 'engulfed'",
+					"22. (a); It 'was believed' should be used in place of 'It believed'",
+					"23. (d); 'stared at' should be used in place of 'stared'. Since, the preposition that follows/precedes the main verb in active voice should also be used in passive voice",
+					"24. (c); 'everybody is disgusted' should be used in place of 'everybody disgusted'",
+					"25. (d); 'in' should be used in place of 'by'. Since, the word 'Contain' is followed by 'in'",
+					"Thnx for Joining"
+		
+							]				
+
+	
