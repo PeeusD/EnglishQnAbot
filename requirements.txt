@@ -1,5 +1,4 @@
 telegram 
 datetime 
-schedule 
-os 
+schedule
 dotenv
