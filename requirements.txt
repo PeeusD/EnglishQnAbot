@@ -1,4 +1,4 @@
 telegram 
 datetime 
 schedule
-dotenv
+python-dotenv
