@@ -25,26 +25,26 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
   for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 
-            if (x == 0) & (y == 9) :      # here x is days and y is 24 hr frmt timing...
+            if (x == 0) & (y == 23) :      # here x is days and y is 24 hr frmt timing...
               ques = Pos.Adjective.questions[i][0]
               ans = Pos.Adjective.sol[i] 
             
-            elif  (x == 1) & (y == 9 ):
+            elif  (x == 1) & (y == 23 ):
               ques = Pos.Adverb.questions[i][0]
               ans = Pos.Adverb.sol[i]
-            elif  (x == 2) & (y == 9 ):
+            elif  (x == 2) & (y == 23 ):
               ques = Pos.Articles.questions[i][0]
               ans = Pos.Articles.sol[i]
-            elif  (x == 3) & (y == 9 ):
+            elif  (x == 3) & (y == 23 ):
               ques = Pos.Conditional.questions[i][0]
               ans = Pos.Conditional.sol[i]
-            elif  (x == 4) & (y == 9):
+            elif  (x == 4) & (y == 23):
               ques = Pos.verb.questions[i][0]
               ans = Pos.verb.sol[i]
-            elif  (x == 5) & (y == 9):
+            elif  (x == 5) & (y == 23):
               ques = Pos.Noun.questions[i][0]
               ans = Pos.Noun.sol[i]
-            elif  (x == 6) & (y == 9):
+            elif  (x == 6) & (y == 23):
               ques = Pos.Preposition.questions[i][0]
               ans = Pos.Preposition.sol[i]
             elif (x == 1) & (y == 16) :
@@ -89,7 +89,7 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
             bot.send_message(chat_id = chat_id, text = ans, parse_mode = ParseMode.HTML)   
 
 
-schedule.every().day.at("09:05").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
+schedule.every().day.at("23:35").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 while True:
   
