@@ -25,26 +25,26 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
   for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 
-            if (x == 0) & (y == 1) :      # here x is days and y is 24 hr frmt timing...
+            if (x == 0) & (y == 3) :      # here x is days and y is 24 hr frmt timing...
               ques = Pos.Adjective.questions[i][0]
               ans = Pos.Adjective.sol[i] 
             
-            elif  (x == 1) & (y == 23 ):
+            elif  (x == 1) & (y == 3 ):
               ques = Pos.Adverb.questions[i][0]
               ans = Pos.Adverb.sol[i]
-            elif  (x == 2) & (y == 23 ):
+            elif  (x == 2) & (y == 3 ):
               ques = Pos.Articles.questions[i][0]
               ans = Pos.Articles.sol[i]
-            elif  (x == 3) & (y == 23 ):
+            elif  (x == 3) & (y == 3 ):
               ques = Pos.Conditional.questions[i][0]
               ans = Pos.Conditional.sol[i]
-            elif  (x == 4) & (y == 23):
+            elif  (x == 4) & (y == 3):
               ques = Pos.verb.questions[i][0]
               ans = Pos.verb.sol[i]
-            elif  (x == 5) & (y == 23):
+            elif  (x == 5) & (y == 3):
               ques = Pos.Noun.questions[i][0]
               ans = Pos.Noun.sol[i]
-            elif  (x == 6) & (y == 23):
+            elif  (x == 6) & (y == 3):
               ques = Pos.Preposition.questions[i][0]
               ans = Pos.Preposition.sol[i]
             elif (x == 1) & (y == 16) :
@@ -83,13 +83,13 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
             cls_tg ='</b>'
             
             ans = op_tg + ans + cls_tg
-            sleep(20)  #delay timing 20 sec between ques and ans
+            sleep(25)  #delay timing 25 sec between ques and ans
 
             #for sending messages as ans to the supergroup
             bot.send_message(chat_id = chat_id, text = ans, parse_mode = ParseMode.HTML)   
 
 
-schedule.every().day.at("01:20").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
+schedule.every().day.at("03:35").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 while True:
   
