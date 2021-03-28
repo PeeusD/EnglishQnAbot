@@ -18,7 +18,7 @@ x = int(x.strftime("%w"))
 y = datetime.datetime.now()  #capturing (H) time in 24 frmt
 y = int(y.strftime("%H"))
 
-print('RUNNING YOUR DEV-MODE APP...)
+print('...RUNNING YOUR DEV-MODE APP...')
 
 def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
   for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
