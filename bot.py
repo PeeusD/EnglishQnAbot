@@ -25,7 +25,7 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
   for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 
-            if (x == 0) & (y == 23) :      # here x is days and y is 24 hr frmt timing...
+            if (x == 0) & (y == 2) :      # here x is days and y is 24 hr frmt timing...
               ques = Pos.Adjective.questions[i][0]
               ans = Pos.Adjective.sol[i] 
             
@@ -89,7 +89,7 @@ def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  --
             bot.send_message(chat_id = chat_id, text = ans, parse_mode = ParseMode.HTML)   
 
 
-schedule.every().day.at("23:35").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
+schedule.every().day.at("02:12").do(schedulling_query)    #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
 
 while True:
   
