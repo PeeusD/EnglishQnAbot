@@ -12,18 +12,21 @@ TOKEN = getenv('TOKEN')
 chat_id = getenv('CHAT_ID')
 bot = Bot(token=TOKEN)
 
-x = datetime.datetime.now()  #capturing day from 0--6
-x = int(x.strftime("%w"))
 
-y = datetime.datetime.now()  #capturing (H) time in 24 frmt
-y = int(y.strftime("%H"))
 
 print('...RUNNING YOUR DEV-MODE APP...')
 
 def schedulling_query():   #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
-  for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
+  x = datetime.datetime.now()  #capturing day from 0--6
+  x = int(x.strftime("%w"))
 
-            print('With Todays Day And Current time:  ',x,y)
+  y = datetime.datetime.now()  #capturing (H) time in 24 frmt
+  y = int(y.strftime("%H"))
+  print('With Todays Day And Current time:  ',x,y)
+  for i in range(52):       #####  <--------------  CHANGE HERE FOR DEBUGGING  ------>
+           
+            
+            
             if (x == 0) & (y == 3) :      # here x is days and y is 24 hr frmt timing...
               ques = Pos.Adjective.questions[i][0]
               ans = Pos.Adjective.sol[i] 
