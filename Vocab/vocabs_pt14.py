@@ -1,0 +1,197 @@
+	
+	
+	
+	
+	 # questions Vocabs....14 part---
+	
+
+questions=  [   "Vocabs Quiz will start in 30 secs",
+											
+					"921. Propriety (noun) ",
+					"922. Countenance (noun) ",
+					"923. Impeccable (adj) ",
+					"924. Infallible (adj) ",
+					"925. Unscrupulous (adj) ",
+					"926. Thereto (adv) ",
+					"927. Reiterate (verb) ",
+					"928. Thwart (verb) ",
+					"929. Fraught (adj) ",
+					"930. Deceptive (adj) ",
+					"931. Retaliatory (adj) ",
+					"932. Substantive (adj) ",
+					"933. Uphold (verb) ",
+					"934. Compliant (adj) ",
+					"935. Prerequisite (noun) ",
+					"936. Envisage (verb) ",
+					"937. Antithesis (noun) ",
+					"938. Fringe (noun) ",
+					"939. Encroachment (noun) ",
+					"940. Disconcerting (adj) ",
+					"941. Mellowed(Verb) ",
+					"942. Clueless(Adj) ",
+					"943. Amidst(Prep) ",
+					"944. Chastened(Verb) ",
+					"945. Pulpit(Noun) ",
+					"946. Oblivious(Adj) ",
+					"947. Assurance(Noun) ",
+					"948. Jolted out(Ph verb) ",
+					"949. Ingress(Noun) ",
+					"950. Status quo ante(Noun) ",
+					"951. Fade away(Ph verb) ",
+					"952. Invoked(Verb) ",
+					"953. Dubious(Adj) ",
+					"954. Caseload(Noun) ",
+					"955. Unappeasable(Adj) ",
+					"956. Destitution(Noun) ",
+					"957. Weaning(Noun) ",
+					"958. Fault lines(Noun) ",
+					"959. Crank up(Ph verb) ",
+					"960. Rhetorical(Adj) ",
+					"961. Armoury(Noun) ",
+					"962. Shore up(Ph verb) ",
+					"963. Belaboured(Verb) ",
+					"964. Invocation(Noun) ",
+					"965. Curative(Adj) ",
+					"966. Anvil(Noun) ",
+					"967. Exposition(Noun) ",
+					"968. Cataloguing(Noun) ",
+					"969. Chores(Noun) ",
+					"970. Triumphalism(Noun) ",
+					"971. Dismayed(Verb) ",
+					"972. Spurned(Verb) ",
+					"973. Xenophobia(Noun) ",
+					"974. Virulent(Adj) ",
+					"975. Bravado(Noun) ",
+					"976. Serenading(Verb) ",
+					"977. Belligerent(Noun) ",
+					"978. Implicit(Noun) ",
+					"979. Dismantling(Verb) ",
+					"980. Falsity(Noun) ",
+					"981. Mobilisation(Noun) ",
+					"982. Cliche(Noun) ",
+					"983. Demagogues(Noun) ",
+					"984. Extricate(Verb) ",
+					"985. Quasi-(Prefix) ",
+					"986. Truculence(Noun) ",
+					"987. Aspirational (Adj) ",
+					"988. Consciousness (Noun) ",
+					"989. Articulation (Noun) ",
+					"990. Exponents (Noun) ",
+					"991. Animated (Adj) ",
+					"992. Etymologically (Adv) ",
+					"993. Self-luminous (Adj) ",
+					"994. Permeate (Verb) ",
+					"995. Weed out (Ph verb) ",
+					"996. Compulsive (Adj) ",
+					"997. Startling (Adj) ",
+					"998. Inherent (Adj) ",
+					"999. Unravels (verb) ",
+					"1000. Continuum (Noun) "
+
+                    "Now Over "
+					]
+					
+					
+					
+					#//Answers  //   Vocabs pt 14 part---
+	
+
+
+
+ 
+sol = [  " Be Ready",
+					
+					
+					"921.Ans:  = Correctness, justification, respectability   ",
+					"922.Ans:  = A person's face or facial expression, support or approval",
+					"923.Ans:  = In accordance with the highest standards faultless",
+					"924.Ans:  = Incapable of making mistakes or being wrong  ",
+					"925.Ans:  = Having or showing no moral principles not honest or fair   ",
+					"926.Ans:  = To that or that place",
+					"927.Ans:  = The action of repeating something, typically for emphasis orclarity   ",
+					"928.Ans:  = Prevent (someone) from accomplishing something  ",
+					"929.Ans:  = Causing or affected by anxiety or stress",
+					"930.Ans:  = Giving an appearance or impression different from the trueone misleading",
+					"931.Ans:  = (of an action) characterized by a desire for revenge",
+					"932.Ans:  = Having a firm basis in reality and so important, meaningful,or considerable, independent existence   ",
+					"933.Ans:  = Confirm or support (something which has been questioned)",
+					"935.Ans:  = A thing that is required as a prior condition for somethingelse to happen or exist ",
+					"937.Ans:  = A person or thing that is the direct opposite of someone orsomething else ",
+					"938.Ans:  = Edging, border, hem   ",
+					"939.Ans:  = A gradual advance beyond usual or acceptable limits",
+					"940.Ans:  = Causing one to feel unsettled, disturbing   ",
+					"941.Ans:  = To become more relaxed ",
+					"942.Ans:  = having no knowledge, understanding, or ability.  ",
+					"943.Ans:  = In the midst or middle of ",
+					"944.Ans:  = A rebuke or misfortune have a restraining or moderatingeffect on.",
+					"945.Ans:  = A raised platform",
+					"946.Ans:  = not aware of or concerned about what is happening aroundone. ",
+					"947.Ans:  = a positive declaration intended to give confidence apromise.   ",
+					"948.Ans:  = To cause something or someone to move suddenly andviolently   ",
+					"949.Ans:  = The action or fact of going in or entering the capacity orright of entrance. ",
+					"950.Ans:  = The previously existing state of affairs.",
+					"951.Ans:  = To slowly disappear",
+					"952.Ans:  = To cite or appeal to (someone or something)  ",
+					"953.Ans:  = Hesitating or doubting.",
+					"954.Ans:  = the number of cases with which a doctor, lawyer, or socialworker is concerned at one time.",
+					"955.Ans:  = Not able to be pacified, placated, or satisfied.  ",
+					"956.Ans:  = poverty so extreme that one lacks the means to provide foroneself.  ",
+					"957.Ans:  = To accustom (someone) to managing without somethingwhich they have become dependent on.",
+					"958.Ans:  = a divisive issue or difference of opinion that is likely to haveserious consequences.",
+					"959.Ans:  = To increase loudness, output, etc",
+					"960.Ans:  = Relating to or concerned with the art of oratorical skill. ",
+					"961.Ans:  = A place where weapons are kept.   ",
+					"962.Ans:  = To support something ",
+					"963.Ans:  = To attack (someone) physically or verbally. ",
+					"964.Ans:  = The act or process of petitioning for help or supportspecifically, often capitalized",
+					"965.Ans:  = Able to cure disease. ",
+					"966.Ans:  = A heavy iron block with a flat top and concave sides, onwhich metal can be hammered and shaped. ",
+					"967.Ans:  = A comprehensive description and explanation of an idea ortheory.",
+					"968.Ans:  = make a systematic list of (items of the same type).  ",
+					"969.Ans:  = A routine task, especially a household one.",
+					"970.Ans:  = excessive exultation over one's success or achievements",
+					"971.Ans:  = Cause someone to feel concern and distress. ",
+					"972.Ans:  = Reject with disdain or contempt. ",
+					"973.Ans:  = Dislike of or prejudice against people from other countries.   ",
+					"974.Ans:  = A disease or poison extremely severe or harmful in itseffects.   ",
+					"975.Ans:  = A bold manner or a show of boldness intended to impressor intimidate.",
+					"976.Ans:  = To entertain someone by singing.   ",
+					"977.Ans:  = Hostile and aggressive   ",
+					"978.Ans:  = Suggested though not directly expressed.   ",
+					"979.Ans:  = To take a machine or structure to pieces.",
+					"980.Ans:  = The fact of being untrue, incorrect, or insincere.   ",
+					"981.Ans:  = The action of a country or its government preparing andorganizing troops for active service. ",
+					"982.Ans:  = A phrase or opinion that is overused and betrays a lack oforiginal thought. ",
+					"983.Ans:  = A political leader who seeks support by appealing to thedesires and prejudices of ordinary people ",
+					"984.Ans:  = To free (someone or something) from a constraint ordifficulty.   ",
+					"985.Ans:  = Apparently but not really seemingly.  ",
+					"986.Ans:  = Aggressively self-assertive   ",
+					"987.Ans:  = Having or characterized by aspirations to achieve socialprestige and material success.   ",
+					"988.Ans:  = The state of being aware of and responsive to one'ssurroundings.",
+					"989.Ans:  = The formation of clear and distinct sounds in speech.",
+					"990.Ans:  = A person who supports an idea or theory and tries topersuade people of its truth or benefits. ",
+					"991.Ans:  = Full of life or excitement lively.  ",
+					"992.Ans:  = In a way that relates to the origin and history of words",
+					"993.Ans:  = Generating and emitting its own visible light   ",
+					"994.Ans:  = Spread throughout (something) pervade. ",
+					"995.Ans:  = To remove people or things that are not wanted from agroup",
+					"996.Ans:  = Resulting from or relating to an irresistible urge. ",
+					"997.Ans:  = Very surprising, astonishing, or remarkable.",
+					"998.Ans:  = Existing in something as a permanent, essential, orcharacteristic attribute.   ",
+					"999.Ans:  = To undo twisted, knitted, or woven threads.   ",
+					"1000.Ans:  = A continuous sequence",
+					
+					"Thanx For joining..."
+					]
+
+
+					#end...
+					
+					
+					
+					
+					
+					
+
+
+
