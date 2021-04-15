@@ -19,6 +19,7 @@
 <br>
 
 ```CHAT_ID```  ```YOUR group ID```    Ex:      -11564546456545645   or   @yourchannelname
-
-Note: BOT TOKEN and YOUR GROUP ID should be replaced with your bot token and your group_id.
-## Redeploy the branch in your app. Enjoy  ;)
+<br>
+**Note: BOT TOKEN and YOUR GROUP ID should be replaced with your bot token and your group_id.**
+## Redeploy the branch in your app. 
+**Enjoy  ;)**
