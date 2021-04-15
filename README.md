@@ -15,11 +15,11 @@
 <hr>
 
 ## Add the credentials (Telegram GROUP Id/name, Bot TOKEN ) in your CONFIG VARS tab of your app like this:
-```TOKEN```     ```YOUR BOT TOKEN```      Ex:    76989897:fjf3553o5353353jjn
+```TOKEN```     ```BOT TOKEN```      Ex:    76989897:fjf3553o5353353jjn
 <br>
 
-```CHAT_ID```  ```YOUR group ID```    Ex:      -11564546456545645   or   @yourchannelname
+```CHAT_ID```  ```GROUP ID```    Ex:      -11564546456545645   or   @yourchannelname
 <br>
-**Note: BOT TOKEN and YOUR GROUP ID should be replaced with your bot token and your group_id.**
+**Note: Add your BOT TOKEN and YOUR GROUP ID (can be integer or group name) **
 ## Redeploy the branch in your app. 
 **Enjoy  ;)**
