@@ -12,6 +12,9 @@
 - [ ] Deploy the branch.
 
 <hr>
+## How this works on telegram group:
+![Untitled](https://user-images.githubusercontent.com/72473589/119238299-5a86c100-bb5f-11eb-9353-b0913d110d90.png)
+
 
 ## Add the credentials (Telegram GROUP Id/name, Bot TOKEN ) in your CONFIG VARS tab of your app like this:
 ```TOKEN```     ```BOT TOKEN```      Ex:    76989897:fjf3553o5353353jjn
