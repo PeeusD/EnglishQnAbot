@@ -13,6 +13,7 @@
 
 <hr>
 ## How this works on telegram group:
+<br>
 ![Untitled](https://user-images.githubusercontent.com/72473589/119238299-5a86c100-bb5f-11eb-9353-b0913d110d90.png)
 
 
