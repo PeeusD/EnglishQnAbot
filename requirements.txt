@@ -1,4 +1,5 @@
 python-telegram-bot 
+APScheduler
 datetime 
 schedule
 python-dotenv
