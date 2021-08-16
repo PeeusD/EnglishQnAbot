@@ -3,3 +3,4 @@ datetime
 schedule
 python-dotenv
 flask
+gunicorn
