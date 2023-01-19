@@ -5,7 +5,7 @@
 	 # questions Vocabs....11 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 				"701. Hierarchy (noun) ",
 				"702. Homogenisation (noun) ",
 				"703. Crucial (Adj.) ",
@@ -78,7 +78,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 				"770. Ambiguity (noun) ",
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -88,7 +88,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 												
 				"701.Ans:  = A system in which members of an organization or society areranked according to relative status or authority. ",
 				"702.Ans:  = The process of making things uniform or similar.   ",
@@ -162,7 +162,7 @@ sol = [  " Be Ready",
 				"770.Ans:  = The quality of being open to more than one interpretationinexactness.",
 									
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

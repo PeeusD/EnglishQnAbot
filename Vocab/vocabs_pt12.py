@@ -5,7 +5,7 @@
 	 # questions Vocabs....12 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 											
 				"771. Tranquillity (noun) ",
 				"772. Axiomatic (Adj.) ",
@@ -79,7 +79,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 				"840. Urge (verb) ",
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -89,7 +89,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 					"771.Ans:  = The quality or state of being tranquil calm. ",
 					"772.Ans:  = Self-evident or unquestionable.  ",
 					"773.Ans:  = Having been made greater in size or value.",
@@ -162,7 +162,7 @@ sol = [  " Be Ready",
 					"840.Ans:  = Try earnestly or persistently to persuade (someone) to dosomething. ",
 									
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

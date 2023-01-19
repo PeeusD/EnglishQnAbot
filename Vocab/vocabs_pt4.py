@@ -5,7 +5,7 @@
 	 ## questions Vocabs....4  part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 				"211. Speculations (noun) ",
 				"212. Confined (Adj.) ",
@@ -81,7 +81,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -91,7 +91,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 										
 					"211.Ans:  = The forming of a theory or conjecture without firm evidence.   ",
 					"212.Ans:  = (of a space) Restricted in area or volume cramped. ",
@@ -166,7 +166,7 @@ sol = [  " Be Ready",
 															
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

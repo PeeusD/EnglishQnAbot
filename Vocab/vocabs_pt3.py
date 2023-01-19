@@ -5,7 +5,7 @@
 	 # questions Vocabs....3  part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 					"141. Littoral (Adj.) ",
 					"142. Abundantly (adverb) ",
@@ -81,7 +81,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -91,7 +91,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 					
 					"141.Ans:  = Relating to or situated on the shore of the sea or a lake.  ",
 					"142.Ans:  = In large quantities plentifully.",
@@ -167,7 +167,7 @@ sol = [  " Be Ready",
 										
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

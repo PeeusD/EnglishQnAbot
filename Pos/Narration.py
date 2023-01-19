@@ -1,30 +1,30 @@
-questions = [
-						[ " Quiz NARATION: will start in 30 secs." ],
+questions = (
+						( " Quiz NARATION: will start in 30 secs." ),
 						
-						["1. (a) They /(b) said that/(c) they will go/(d) next day./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 2. (a) They said/(b) that I /(c) shall work hard/ (d) if I want to pass./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 3. (a) He asked her / (b) that if / (c)she was going / (d) to attend the meeting. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 4. (a) Shweta asked Harish / (b) that what / (c) had not / (d) happened / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 5. (a) Seema asked / (b) me / (c) what did I say / (d) about her. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 6. (a) Teacher told to / (b) me that / (c) the sun / (d) is the nearest star to the earth / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["7. (a) The Judge /(b) asked Ravi/ (c) if he knew the/(d) thief or not / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["8. (a) Ramesh was telling that /(b) everyone was / (c) satisfied with/ (d) the incentive. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["9. (a) My teacher said/(b) that a bird in hand/(c) is worth two/(d) in the bush./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["10. (a) She ordered/ (b) her son shut/ (c) the door and/(d) close the window./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["11. (a) The police asked/ (b) the little boy if /(c) he knows the who/(d) killed his mother./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 12. (a) My father allowed/ (b) me to/(c) do whatever /(d) I want./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["13. (a) The mother forbade/ (b) his son not to/(c) go outside / (d) after the dark./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["14. (a) She exclaimed with/ (b) sorrow that her mother/(c) died just two/ (d) months before./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["15. (a) He requested his father/(b) to take him to/(c) the doctor as he/ (d) has very high fever./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["16. (a) When my teacher said that/(b) she was coming to see me the next week/(c) I wondered what problems/(d) she will have with me. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["17. (a) She suggested that/ (b) I should stay at/(c) home if it rained but I do not /(d) give any answer/(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["18. (a) He asked his son why had he /(b) gone to school when/(c) he knew that there would be fewer/(d) buses on road that day/(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						["19. (a) She said that you/(b) studied hard so/(c) that you may get/(d) good marks. /(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
-						[" 20. (a) She said that she/(b) was going to temple and /(c) wanted to know that/(d) I could accompany her. /(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ],
+						("1. (a) They /(b) said that/(c) they will go/(d) next day./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 2. (a) They said/(b) that I /(c) shall work hard/ (d) if I want to pass./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 3. (a) He asked her / (b) that if / (c)she was going / (d) to attend the meeting. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 4. (a) Shweta asked Harish / (b) that what / (c) had not / (d) happened / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 5. (a) Seema asked / (b) me / (c) what did I say / (d) about her. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 6. (a) Teacher told to / (b) me that / (c) the sun / (d) is the nearest star to the earth / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("7. (a) The Judge /(b) asked Ravi/ (c) if he knew the/(d) thief or not / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("8. (a) Ramesh was telling that /(b) everyone was / (c) satisfied with/ (d) the incentive. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("9. (a) My teacher said/(b) that a bird in hand/(c) is worth two/(d) in the bush./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("10. (a) She ordered/ (b) her son shut/ (c) the door and/(d) close the window./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("11. (a) The police asked/ (b) the little boy if /(c) he knows the who/(d) killed his mother./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 12. (a) My father allowed/ (b) me to/(c) do whatever /(d) I want./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("13. (a) The mother forbade/ (b) his son not to/(c) go outside / (d) after the dark./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("14. (a) She exclaimed with/ (b) sorrow that her mother/(c) died just two/ (d) months before./ (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("15. (a) He requested his father/(b) to take him to/(c) the doctor as he/ (d) has very high fever./(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("16. (a) When my teacher said that/(b) she was coming to see me the next week/(c) I wondered what problems/(d) she will have with me. / (e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("17. (a) She suggested that/ (b) I should stay at/(c) home if it rained but I do not /(d) give any answer/(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("18. (a) He asked his son why had he /(b) gone to school when/(c) he knew that there would be fewer/(d) buses on road that day/(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						("19. (a) She said that you/(b) studied hard so/(c) that you may get/(d) good marks. /(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
+						(" 20. (a) She said that she/(b) was going to temple and /(c) wanted to know that/(d) I could accompany her. /(e) ", "1 (A)", "2 (B)", "3 (C)","4 (D)","No error", "" ),
 
 						
-						[ "Now OVER!!! Just rate us!"]
-							]
+						( "Now OVER!!! Just rate us!")
+							)
 						
 				
 
@@ -32,7 +32,7 @@ questions = [
 				
 				
 				
-sol=[					"Lets Start!",
+sol=(					"Lets Start!",
 						"1. (c); 'Would' should be used in place of 'will'. Since, Repotting verb in past, hence, the reported speech should also be in past",
 						"2. (c); 'Should' and 'wanted' should be used in place of 'shall' and 'want'",
 						"Since, Repotting verb in past, hence, the reported speech should also be in past",
@@ -58,4 +58,4 @@ sol=[					"Lets Start!",
 						
 						
 						
-							]
+							)

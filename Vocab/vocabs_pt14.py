@@ -5,7 +5,7 @@
 	 # questions Vocabs....14 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 											
 					"921. Propriety (noun) ",
 					"922. Countenance (noun) ",
@@ -89,7 +89,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 					"1000. Continuum (Noun) "
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -99,7 +99,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 					
 					
 					"921.Ans:  = Correctness, justification, respectability   ",
@@ -182,7 +182,7 @@ sol = [  " Be Ready",
 					"1000.Ans:  = A continuous sequence",
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

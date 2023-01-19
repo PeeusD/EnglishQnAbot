@@ -5,7 +5,7 @@
 	 # questions Vocabs....8 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 						
 					"491. Cede (verb) ",
@@ -80,7 +80,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 					"560. Deploy (verb) ",	
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -90,7 +90,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 								
 						
 					"491.Ans:  = Give up (power or territory).   ",
@@ -149,7 +149,7 @@ sol = [  " Be Ready",
 					"544.Ans:  = Make (suffering, deficiency, or a problem) less severe.",
 					"545.Ans:  = Be or remain hidden so as to wait in ambush for someone orsomething.   ",
 					"546.Ans:  = Without being aware unintentionally.   ",
-					"547.Ans:  = Punishment inflicted or retribution exacted for an injury orwrong.   ]",
+					"547.Ans:  = Punishment inflicted or retribution exacted for an injury orwrong.   )",
 					"548.Ans:  = Ability to be afforded inexpensiveness.",
 					"549.Ans:  = Satisfactory or acceptable in quality or quantity.   ",
 					"550.Ans:  = Demand or specify (a requirement), typically as part of anagreement.  ",
@@ -165,7 +165,7 @@ sol = [  " Be Ready",
 					"560.Ans:  = Bring into effective action.   ",					
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

@@ -5,7 +5,7 @@
 	 ## questions Vocabs....6  part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 				"351. Rectify (verb) ",
 				"352. Exhort (verb) ",
@@ -81,7 +81,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-			]
+			)
 					
 					
 					
@@ -91,7 +91,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 									"351.Ans:  = Put right correct.  ",
 					"352.Ans:  = Strongly encourage or urge (someone) to do something.  ",
 					"353.Ans:  = The desire to do something, especially something wrong orunwise. ",
@@ -165,7 +165,7 @@ sol = [  " Be Ready",
 					
 					
 					"Thanx For joining..."
-				]
+				)
 
 
 					#end...

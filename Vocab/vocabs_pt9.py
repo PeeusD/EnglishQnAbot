@@ -5,7 +5,7 @@
 	 # questions Vocabs....9 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 				"561. Trickle (verb) ",
 				"562. Civic (Adj.) ",
@@ -79,7 +79,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 				"630. Imbroglio (noun) ",
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -89,7 +89,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 								
 					"561.Ans:  = Come or go slowly or gradually.    ",
 					"562.Ans:  = Relating to a city or town, especially its administrationmunicipal. ",
@@ -163,7 +163,7 @@ sol = [  " Be Ready",
 					"630.Ans:  = An extremely confused, complicated, or embarrassingsituation.  "
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

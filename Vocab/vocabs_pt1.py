@@ -5,7 +5,7 @@
 	# Vocabs....1   part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 						
 						"1. Adequately (adverb) ",
@@ -78,11 +78,10 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						"68. Voyage (noun) ",
 						"69. Eternal (Adj.) ",
 						"70. Demise (noun) ",
-								
-		
+										
 
                     "Now Over "
-					]
+		)
 					
 					
 					
@@ -92,7 +91,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol=[  " Be Ready",
+sol=(  " Be Ready",
 					
 				"1.Ans:  = To a satisfactory or acceptable extent.  ",
 				"2.Ans:  = very great in amount, scale, or intensity. ",
@@ -171,7 +170,7 @@ sol=[  " Be Ready",
 					
 					
 					"Thanx For joining..."
-					]
+		)
 
 
 					

@@ -5,7 +5,7 @@
 	 ## questions Vocabs....5  part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 				"281. Infuse (verb) ",
 				"282. Vigour (noun) ",
@@ -81,7 +81,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -91,7 +91,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 															
 					"281.Ans:  = Fill pervade.  ",
 					"282.Ans:  = Physical strength and good health. ",
@@ -166,7 +166,7 @@ sol = [  " Be Ready",
 																				
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

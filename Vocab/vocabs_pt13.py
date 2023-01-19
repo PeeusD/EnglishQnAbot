@@ -5,7 +5,7 @@
 	 # questions Vocabs....13 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 											
 					"841. Accommodative (Adj.) ",
 					"842. Appetite (noun) ",
@@ -89,7 +89,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 					"920. Scathing (adj) ",
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -99,7 +99,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 					"841.Ans:  = Willing to fit in with someone's wishes or needs.  ",
 					"842.Ans:  = A natural desire to satisfy a bodily need, especially for food. ",
 					"843.Ans:  = The transfer or delegation of power to a lower level,especially by central government to local or regionaladministration. ",
@@ -181,7 +181,7 @@ sol = [  " Be Ready",
 					"920.Ans:  = Severely critical, devastating  ",
 									
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

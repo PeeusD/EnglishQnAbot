@@ -5,7 +5,7 @@
 	 # Vocabs....2   part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 						
 							"71. Evidence (noun) ",
@@ -82,7 +82,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -92,7 +92,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 					
 						"71.Ans:  = The available body of facts or information indicating whethera belief or proposition is true or valid. ",
 						"72.Ans:  = A collection of weapons and military equipment.   ",
@@ -170,7 +170,7 @@ sol = [  " Be Ready",
 					
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

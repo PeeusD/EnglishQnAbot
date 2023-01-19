@@ -5,7 +5,7 @@
 	 # questions Vocabs....10 part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 					"631. Hue (noun) ",
 					"632. Upfront (Adj.) ",
 					"633. Temperamental (Adj.) ",
@@ -78,7 +78,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 					"700. Precedence (noun) ",
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -88,7 +88,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 								
 										"631.Ans:  = A colour or shade.  ",
 					"632.Ans:  = Bold, honest, and frank.   ",
@@ -162,7 +162,7 @@ sol = [  " Be Ready",
 					"700.Ans:  = The condition of being considered more important thansomeone or something else priority in importance, order, orrank. ",
 					
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...

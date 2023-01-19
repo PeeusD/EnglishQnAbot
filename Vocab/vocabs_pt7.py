@@ -5,7 +5,7 @@
 	 ## questions Vocabs....7  part---
 	
 
-questions=  [   "Vocabs Quiz will start in 30 secs",
+questions=  (   "Vocabs Quiz will start in 30 secs",
 
 						"421. Herald (noun) ",
 					"422. Ravage (verb) ",
@@ -80,7 +80,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 						
 
                     "Now Over "
-					]
+					)
 					
 					
 					
@@ -90,7 +90,7 @@ questions=  [   "Vocabs Quiz will start in 30 secs",
 
 
  
-sol = [  " Be Ready",
+sol = (  " Be Ready",
 								
 						"421.Ans:  = An official employed to oversee state ceremonial,precedence, and the use of armorial bearings, and(historically) to make proclamations, carry official messages,and oversee tournaments. ",
 						"422.Ans:  = Cause severe and extensive damage to.  ",
@@ -164,7 +164,7 @@ sol = [  " Be Ready",
 						"490.Ans:  = A state or quality of great excitement or passion.",					
 						
 					"Thanx For joining..."
-					]
+					)
 
 
 					#end...
